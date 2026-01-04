@@ -1,0 +1,55 @@
+{
+  "header": {
+    "subtitle": "Estudiante de Ingeniería en Sistemas | IT y Programación Junior",
+    "contact": "Retalhuleu, Guatemala · justin2266xd@gmail.com · +502 5563 5698"
+  },
+  "profile": {
+    "title": "Perfil Profesional",
+    "text": "Estudiante de Ingeniería en Sistemas con formación autodidacta en programación y tecnologías de la información. Cuento con conocimientos en Python, C++, desarrollo web básico y soporte técnico. Me caracterizo por la responsabilidad, el pensamiento lógico, la adaptabilidad y la disposición al aprendizaje continuo."
+  },
+  "education": {
+    "title": "Formación Académica",
+    "university": "Universidad Mariano Gálvez de Guatemala — Ingeniería en Sistemas (2023 – Actualidad)",
+    "highschool": "Instituto Mixto Carlos Dubón — Bachillerato en Ciencias y Letras (2021 – 2022)"
+  },
+  "experience": {
+    "title": "Experiencia",
+    "job": "Atención al Cliente y Ventas – Negocio Familiar (2015 – 2019)",
+    "task1": "Atención directa y asesoría personalizada a clientes",
+    "task2": "Gestión básica de ventas e inventario",
+    "task3": "Comunicación presencial, telefónica y digital",
+    "task4": "Desarrollo de habilidades de negociación y servicio al cliente"
+  },
+  "technicalSkills": {
+    "title": "Competencias Técnicas",
+    "s1": "Programación en Python",
+    "s2": "Programación en C++",
+    "s3": "Desarrollo web básico",
+    "s4": "Programación orientada a objetos",
+    "s5": "Soporte técnico",
+    "s6": "Mantenimiento de computadoras",
+    "s7": "Instalación de sistemas operativos",
+    "s8": "Conocimientos de hardware",
+    "s9": "Herramientas de ofimática",
+    "s10": "Conocimiento teórico de IA"
+  },
+  "professionalSkills": {
+    "title": "Competencias Profesionales",
+    "s1": "Aprendizaje autodidacta",
+    "s2": "Pensamiento lógico y analítico",
+    "s3": "Resolución de problemas",
+    "s4": "Responsabilidad y compromiso",
+    "s5": "Adaptabilidad tecnológica",
+    "s6": "Trabajo en equipo",
+    "s7": "Comunicación efectiva",
+    "s8": "Atención al detalle"
+  },
+  "languages": {
+    "title": "Idiomas",
+    "l1": "Español – Nativo",
+    "l2": "Inglés – Básico (A2)"
+  },
+  "footer": {
+    "text": "© 2026 Justin Oliver Daniel Torrez Sac"
+  }
+}
