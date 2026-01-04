@@ -7,7 +7,7 @@ const btnEn = document.querySelector(".btn-en");
 
 // Cambiar a INGLÉS
 btnEn.addEventListener("click", () => {
-  fetch("languages/en.json")
+  fetch("en.json")
     .then(response => {
       if (!response.ok) {
         throw new Error("No se pudo cargar el idioma inglés");
